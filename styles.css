@@ -1,0 +1,27 @@
+body{
+    background-color: #077fa7;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.container{
+    display: flex;
+    text-align: center;
+    margin-top: 300px;
+    padding: 20px;
+    background-color: white;
+    height: 230px;
+    justify-content: space-evenly;
+}
+
+
+div:hover{
+    opacity: 0.5;
+    filter:  alpha(opacity=50);
+    background-color: gainsboro;
+    
+}
+
+h1,span,sup{
+    color: #108ac7;
+}
+
